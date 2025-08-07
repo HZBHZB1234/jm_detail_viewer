@@ -1,0 +1,2 @@
+# jm_detail_viewer
+jm_comic_downloader的配套程序
